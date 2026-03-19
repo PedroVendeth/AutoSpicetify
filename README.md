@@ -28,9 +28,6 @@ Spicetify CLI (ferramenta para customização do Spotify)
 
 ⚠️ Avisos importantes
 
-Este script executa código remoto diretamente do GitHub. Use com cautela.
-
 Sempre revise o conteúdo do script remoto antes de executá-lo.
 
 Pode ser necessário executar o terminal como administrador dependendo das permissões do sistema.
-
