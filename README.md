@@ -16,8 +16,6 @@ Capturar possíveis saídas e erros do processo
 
 ⚙️ Requisitos
 
-Python 3.x
-
 Windows com PowerShell instalado
 
 Conexão com a internet
